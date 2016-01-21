@@ -1001,8 +1001,6 @@
 			position: absolute;
 			top: 0;
 			left: 0;
-			max-width: 309px;
-			height: auto;
 			z-index: 1;
 		}
 
@@ -1276,7 +1274,8 @@
 					#me .pic img {
 						position: relative;
 						display: block;
-						height: 100%;
+						width: 100%;
+						height: auto;
 					}
 
 					#me .pic .arrow {
