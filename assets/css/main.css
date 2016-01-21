@@ -865,7 +865,8 @@
 			display: block;
 			width: 100%;
 			max-width: 400px;
-			margin: auto;			
+			margin: auto;
+			text-decoration: none;
 		}
 
 		.image.fit:hover::before {
@@ -1371,6 +1372,20 @@
 				letter-spacing: -0.025em;
 			}
 
+			.link {
+				color: #ff9966;
+				border-bottom: 1px solid #ff9966;
+				text-decoration: none;
+			}
+
+			.link:hover {
+				border-bottom: none;
+			}
+
+			.link:active {
+				color: #ffcc99;
+			}
+
 		/* Section/Article */
 
 			header {
@@ -1397,19 +1412,6 @@
 				ul.actions li:first-child {
 					margin-top: 0;
 				}
-
-		/* Button */
-
-			input[type="button"],
-			input[type="submit"],
-			input[type="reset"],
-			button,
-			.button {
-				display: block;
-				width: 100%;
-				padding: 0.75em 0 0.75em 0;
-				text-align: center;
-			}
 
 		/* Wrapper */
 
