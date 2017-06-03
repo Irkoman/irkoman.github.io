@@ -1082,8 +1082,8 @@
 			}
 
 			.link {
-				color: #ff9966;
-				border-bottom: 1px solid #ff9966;
+				color: #363636;
+				border-bottom: 1px solid #363636;
 				text-decoration: none;
 			}
 
@@ -1092,7 +1092,7 @@
 			}
 
 			.link:active {
-				color: #ffcc99;
+				color: #363636;
 			}
 
 		/* Section/Article */
@@ -1373,8 +1373,8 @@
 			}
 
 			.link {
-				color: #ff9966;
-				border-bottom: 1px solid #ff9966;
+				color: #363636;
+				border-bottom: 1px solid #363636;
 				text-decoration: none;
 			}
 
@@ -1383,7 +1383,7 @@
 			}
 
 			.link:active {
-				color: #ffcc99;
+				color: #363636;
 			}
 
 		/* Section/Article */
